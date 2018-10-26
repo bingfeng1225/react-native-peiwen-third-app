@@ -1,6 +1,6 @@
 {
   "name": "react-native-peiwen-third-app",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "The react-native library for open third app",
   "main": "index.js",
   "typings": "index.d.ts",
